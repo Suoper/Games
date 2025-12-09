@@ -9,7 +9,7 @@
     "machineParts": 999999999999999999999,
     "refinedMetal": 999999999999999999999,
     "computerChips": 999999999999999999999,
-    "knowledge": 999999999999999999999,
+    "knowledge": 10000,
     "category": "Houses",
     "unlockedByDefault": true,
     "specialInfo": [],
