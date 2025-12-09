@@ -3,8 +3,8 @@
     "className": "Flowers",
     "name": "Flowers",
     "description": "Flowers improve the happiness of residents. Improves housing quality by 5.",
-    "food": 1,
-    "wood": 2,
+    "food": 0,
+    "wood": 0,
     "stone": 0,
     "machineParts": 0,
     "knowledge": 0
@@ -15,9 +15,9 @@
     "description": "Two stone is now used to make a machine part instead of three.",
     "food": 0,
     "wood": 0,
-    "stone": 5,
-    "machineParts": 10,
-    "knowledge": 20
+    "stone": 0,
+    "machineParts": 0,
+    "knowledge": 0
   },
   {
     "className": "FactoryDisabled",
@@ -57,7 +57,7 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 10
+    "knowledge": 0
   },
   {
     "className": "RefinedMetalsFactoryHack",
@@ -68,7 +68,7 @@
     "stone": 0,
     "machineParts": 0,
     "computerChips": 0,
-    "knowledge": 1337,
+    "knowledge": 0,
     "unlockedByDefault": false
   },
   {
@@ -109,37 +109,37 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 1000
+    "knowledge": 0
   },
   {
     "className": "FarmingResearch",
     "name": "Genetic Crop Engineering",
     "description": "Crops of adjacent farms produce 10 more food per harvest.",
     "food": 0,
-    "wood": 30,
+    "wood": 0,
     "stone": 0,
-    "machineParts": 10,
-    "knowledge": 30
+    "machineParts": 0,
+    "knowledge": 0
   },
   {
     "className": "TreePlantationResearch",
     "name": "Tree Growth Gas",
     "description": "Trees in adjacent tree plantations grow 20% faster.",
     "food": 0,
-    "wood": 10,
+    "wood": 0,
     "stone": 0,
-    "machineParts": 20,
-    "knowledge": 70
+    "machineParts": 0,
+    "knowledge": 0
   },
   {
     "className": "BetterPickaxes",
     "name": "Better Pickaxes",
     "description": "Use better pickaxes to improve mining speed by 20%.",
     "food": 0,
-    "wood": 3,
-    "stone": 3,
+    "wood": 0,
+    "stone": 0,
     "machineParts": 0,
-    "knowledge": 3
+    "knowledge": 0
   },
   {
     "className": "AIMining",
@@ -149,8 +149,8 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "computerChips": 10,
-    "knowledge": 1500,
+    "computerChips": 0,
+    "knowledge": 0,
     "unlockedByDefault": false
   },
   {
@@ -160,10 +160,10 @@
     "food": 0,
     "wood": 0,
     "stone": 0,
-    "machineParts": 50,
-    "computerChips": 5,
-    "refinedMetal": 10,
-    "knowledge": 1000
+    "machineParts": 0,
+    "computerChips": 0,
+    "refinedMetal": 0,
+    "knowledge": 0
   },
   {
     "className": "BetterLightShow",
@@ -172,22 +172,22 @@
     "food": 0,
     "wood": 0,
     "stone": 0,
-    "machineParts": 20,
-    "computerChips": 2,
+    "machineParts": 0,
+    "computerChips": 0,
     "refinedMetal": 0,
-    "knowledge": 100
+    "knowledge": 0
   },
   {
     "className": "MedicalEducation",
     "name": "Improved Medical Education",
     "description": "The quality of this building will be increased by 25% of the education happiness.",
-    "food": 100,
-    "wood": 10,
+    "food": 0,
+    "wood": 0,
     "stone": 0,
     "machineParts": 0,
     "computerChips": 0,
     "refinedMetal": 0,
-    "knowledge": 100
+    "knowledge": 0
   },
   {
     "className": "AIAssistedDiagnosis",
@@ -195,11 +195,11 @@
     "description": "The quality of this building will be increased by 25 and its capacity will be doubled.",
     "food": 0,
     "wood": 0,
-    "stone": 20,
-    "machineParts": 50,
-    "computerChips": 25,
+    "stone": 0,
+    "machineParts": 0,
+    "computerChips": 0,
     "refinedMetal": 0,
-    "knowledge": 1000
+    "knowledge": 0
   },
   {
     "className": "StoneTeleporterRemote",
@@ -208,10 +208,10 @@
     "food": 0,
     "wood": 0,
     "stone": 0,
-    "machineParts": 2,
-    "computerChips": 5,
+    "machineParts": 0,
+    "computerChips": 0,
     "refinedMetal": 0,
-    "knowledge": 500
+    "knowledge": 0
   },
   {
     "className": "BiggerTV",
@@ -219,54 +219,54 @@
     "description": "Improves housing quality by 5. Adds capacity for one resident.",
     "food": 0,
     "wood": 0,
-    "stone": 2,
+    "stone": 0,
     "machineParts": 0,
-    "computerChips": 1,
-    "knowledge": 100
+    "computerChips": 0,
+    "knowledge": 0
   },
   {
     "className": "ModernHomePlant",
     "name": "Air-Cleaning Plant",
     "description": "A plant that's been cultivated to be extremely good at cleaning the air. Improves housing quality by 10 and makes residents live longer.",
-    "food": 20,
-    "wood": 10,
+    "food": 0,
+    "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 500
+    "knowledge": 0
   },
   {
     "className": "HeatedBed",
     "name": "Heated Bed",
     "description": "Improves housing quality by 20.",
     "food": 0,
-    "wood": 10,
+    "wood": 0,
     "stone": 0,
-    "machineParts": 5,
-    "computerChips": 1,
-    "knowledge": 750
+    "machineParts": 0,
+    "computerChips": 0,
+    "knowledge": 0
   },
   {
     "className": "SmartChairs",
     "name": "Smart Chairs",
     "description": "Improves housing quality by 10.",
     "food": 0,
-    "wood": 4,
+    "wood": 0,
     "stone": 0,
-    "machineParts": 4,
-    "computerChips": 4,
-    "knowledge": 1000
+    "machineParts": 0,
+    "computerChips": 0,
+    "knowledge": 0
   },
   {
     "className": "ModernConveniences",
     "name": "Modern Conveniences",
     "description": "Improves housing quality by 15.",
     "food": 0,
-    "wood": 5,
+    "wood": 0,
     "stone": 0,
-    "machineParts": 5,
+    "machineParts": 0,
     "computerChips": 0,
-    "refinedMetal": 2,
-    "knowledge": 100
+    "refinedMetal": 0,
+    "knowledge": 0
   },
   {
     "className": "WorkshopKnowledge",
@@ -294,30 +294,30 @@
     "description": "This building produces 50% more knowledge. If the Precise Universe Mapping upgrade from the Supercomputer has been researched, it produces 500% more knowledge instead.",
     "food": 0,
     "wood": 0,
-    "stone": 5,
+    "stone": 0,
     "machineParts": 0,
-    "computerChips": 5,
-    "knowledge": 100
+    "computerChips": 0,
+    "knowledge": 0
   },
   {
     "className": "SofterBeds",
     "name": "Extremely Soft Beds",
     "description": "Improves housing quality by 10.",
-    "food": 12,
-    "wood": 6,
+    "food": 0,
+    "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 50
+    "knowledge": 0
   },
   {
     "className": "BoardGameCollection",
     "name": "Board Game Collection",
     "description": "Improves housing quality by 15.",
-    "food": 5,
-    "wood": 4,
+    "food": 0,
+    "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 150
+    "knowledge": 0
   },
   {
     "className": "SmartLights",
@@ -327,20 +327,20 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "computerChips": 1,
-    "refinedMetal": 5,
-    "knowledge": 200
+    "computerChips": 0,
+    "refinedMetal": 0,
+    "knowledge": 0
   },
   {
     "className": "LivingComputer",
     "name": "Living Computer",
     "description": "Improves housing quality by 20.",
-    "food": 25,
-    "wood": 50,
+    "food": 0,
+    "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "computerChips": 1,
-    "knowledge": 2000,
+    "computerChips": 0,
+    "knowledge": 0,
     "unlockedByDefault": false
   },
   {
@@ -350,10 +350,10 @@
     "food": 0,
     "wood": 0,
     "stone": 0,
-    "machineParts": 10,
-    "computerChips": 2,
-    "refinedMetal": 6,
-    "knowledge": 3000
+    "machineParts": 0,
+    "computerChips": 0,
+    "refinedMetal": 0,
+    "knowledge": 0
   },
   {
     "className": "MisdirectorNormal",
@@ -373,7 +373,7 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 5000
+    "knowledge": 0
   },
   {
     "className": "MisdirectorMostlyDisabled",
@@ -393,17 +393,17 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 50000
+    "knowledge": 0
   },
   {
     "className": "IndoorPond",
     "name": "Indoor Pond",
     "description": "Improves housing quality by 15.",
-    "food": 20,
+    "food": 0,
     "wood": 0,
-    "stone": 100,
+    "stone": 0,
     "machineParts": 0,
-    "knowledge": 10000
+    "knowledge": 0
   },
   {
     "className": "CHProduceStone",
@@ -443,8 +443,8 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "computerChips": 25,
-    "knowledge": 2500,
+    "computerChips": 0,
+    "knowledge": 0,
     "unlockedByDefault": false
   },
   {
@@ -455,8 +455,8 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "computerChips": 2000,
-    "knowledge": 150000,
+    "computerChips": 0,
+    "knowledge": 0,
     "unlockedByDefault": false
   },
   {
@@ -465,10 +465,10 @@
     "description": "You gain two more knowledge for each machine part used.",
     "food": 0,
     "wood": 0,
-    "stone": 1,
-    "machineParts": 1,
-    "computerChips": 5,
-    "knowledge": 10000,
+    "stone": 0,
+    "machineParts": 0,
+    "computerChips": 0,
+    "knowledge": 0,
     "unlockedByDefault": true
   },
   {
@@ -478,9 +478,9 @@
     "food": 0,
     "wood": 0,
     "stone": 0,
-    "machineParts": 5,
-    "computerChips": 5,
-    "knowledge": 5000,
+    "machineParts": 0,
+    "computerChips": 0,
+    "knowledge": 0,
     "unlockedByDefault": false
   },
   {
@@ -501,6 +501,6 @@
     "wood": 0,
     "stone": 0,
     "machineParts": 0,
-    "knowledge": 25
+    "knowledge": 0
   }
 ]
